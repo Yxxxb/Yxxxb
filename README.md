@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Xubing Ye (叶栩冰 in Chinese)
 
 <!--
 **Yxxxb/Yxxxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Now, I am a 1st year Master at [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yansong Tang](https://andytang15.github.io/). I obtained my bachelor's degree from the [School of Software Engineering](https://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2023. I am interning at Tencent ARC Lab.
+
+- 🔭 I’m currently working on large vision language models and large language models!
+- 💬 How to reach me: **[Email](yxb23@mails.tsinghua.edu.cn)**.
+- 📫 Recent work: **[VoCo-LLaMA](https://github.com/Yxxxb/VoCo-LLaMA)**.
