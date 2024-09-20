@@ -20,7 +20,5 @@ Now, I am a 2nd year master at [Tsinghua University](https://www.tsinghua.edu.cn
 - 🔭 I’m currently working on large (vision) language models!
 - 💬 How to reach me: [Email](mailto:yxb23@mails.tsinghua.edu.cn).
 - 📫 Recent work:
-
-  **[VoCo-LLaMA](https://github.com/Yxxxb/VoCo-LLaMA)**. [Under Review] The first approach to compress vision tokens utilizing the LLMs' understanding paradigm of vision tokens, which can compress hundreds of vision tokens into a single VoCo token with minimal visual information loss.
-  
-  **[LAVT-RS](https://github.com/Yxxxb/LAVT-RS)**. [TPAMI2024] Language-aware pixel-level early fusion transformer for referring image and video segmentation.
+  - **[VoCo-LLaMA](https://github.com/Yxxxb/VoCo-LLaMA)**. [Under Review] The first approach to compress vision tokens utilizing the LLMs' understanding paradigm of vision tokens, which can compress hundreds of vision tokens into a single VoCo token with minimal visual information loss.
+  - **[LAVT-RS](https://github.com/Yxxxb/LAVT-RS)**. [TPAMI2024] Language-aware pixel-level early fusion transformer for referring image and video segmentation.
