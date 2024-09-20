@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Now, I am a 2nd year master at [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yansong Tang](https://andytang15.github.io/). I obtained my bachelor's degree from the [School of Software Engineering](https://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2023. I am interning at Tencent ARC Lab.
 
-- 🔭 I’m currently working on large (vision) language models!
+- 🔭 I’m currently working on large vision language models!
 - 💬 How to reach me: [Email](mailto:yxb23@mails.tsinghua.edu.cn).
 - 📫 Recent work:
   - **[VoCo-LLaMA](https://github.com/Yxxxb/VoCo-LLaMA)**. [Under Review] The first approach to compress vision tokens utilizing the LLMs' understanding paradigm of vision tokens, which can compress hundreds of vision tokens into a single VoCo token with minimal visual information loss.
