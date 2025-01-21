@@ -22,4 +22,4 @@ Now, I am a 2nd year master at [Tsinghua University](https://www.tsinghua.edu.cn
 - 📫 Recent work:
   - **[ATP-LLaVA](https://yxxxb.github.io/ATP-LLaVA-page/)**. [Under Review] We propose ATP-LLaVA, a framework that adaptively determines pruning ratios instance-wise and LLM layer-wise for effective visual token pruning on large vision language models. 
   - **[VoCo-LLaMA](https://yxxxb.github.io/VoCo-LLaMA-page/)**. [Under Review] The first approach to compress vision information utilizing the LLMs' understanding paradigm, which can compress hundreds of vision tokens into a single VoCo token with minimal visual information loss.
-  - **[LAVT-RS](https://github.com/Yxxxb/LAVT-RS)**. [TPAMI2024] Pixel-level language-aware early-fusion vision transformer structure for both referring image and video segmentation.
+  - **[LAVT-RS](https://github.com/Yxxxb/LAVT-RS)**. [CVPR2022, TPAMI2024] Pixel-level language-aware early-fusion vision transformer structure for both referring image and video segmentation.
