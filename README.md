@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Xubing Ye (叶栩冰 in Chinese)
+## Hi there 👋, I'm Xubing Ye.
 
 - 🌱 I'm a 2nd year master at Tsinghua University (M.Eng.@THU’2026).
 - 🔭 I’m currently working on multimodal large language models!
