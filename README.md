@@ -1,25 +1,6 @@
 ## Hi there 👋, I'm Xubing Ye (叶栩冰 in Chinese)
 
-<!--
-**Yxxxb/Yxxxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Now, I am a 2nd year master at [Tsinghua University](https://www.tsinghua.edu.cn/) (M.Eng.@THU’2026), supervised by Prof. [Yansong Tang](https://andytang15.github.io/). I obtained my bachelor's degree from the [School of Software Engineering](https://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2023.
-
-- 🔭 I’m currently working on large vision language models!
-- 💬 How to reach me: [Email](mailto:yxb23@mails.tsinghua.edu.cn).
-- 📫 Recent work:
-  - **[ATP-LLaVA](https://yxxxb.github.io/ATP-LLaVA-page/)**. [Under Review] We propose ATP-LLaVA, a framework that adaptively determines pruning ratios instance-wise and LLM layer-wise for effective visual token pruning on large vision language models. 
-  - **[VoCo-LLaMA](https://yxxxb.github.io/VoCo-LLaMA-page/)**. [Under Review] The first approach to compress vision information utilizing the LLMs' understanding paradigm, which can compress hundreds of vision tokens into a single VoCo token with minimal visual information loss.
-  - **[LAVT-RS](https://github.com/Yxxxb/LAVT-RS)**. [CVPR2022, TPAMI2024] Pixel-level language-aware early-fusion vision transformer structure for both referring image and video segmentation.
+- 🌱 I'm a 2nd year master at Tsinghua University (M.Eng.@THU’2026).
+- 🔭 I’m currently working on multimodal large language models!
+- 💬 How to reach me: [yxb_tongji@163.com](mailto:yxb_tongji@163.com).
+- 📫 For more information, please refer to [https://yxxxb.github.io/](https://yxxxb.github.io/)
